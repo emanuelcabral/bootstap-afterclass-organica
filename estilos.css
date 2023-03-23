@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Chicle&family=DynaPuff:wght@500&family=Edu+QLD+Beginner&family=Fascinate&family=Fuzzy+Bubbles:wght@700&family=Gantari:wght@100&family=IBM+Plex+Sans:wght@100&family=Inter:wght@100&family=Kdam+Thmor+Pro&family=Kenia&family=Macondo&family=Mukta:wght@700&family=Nerko+One&family=Open+Sans:wght@300&family=Oswald:wght@400;700&family=Poppins:wght@100&family=Raleway:ital,wght@0,100;1,100&family=Rubik+Moonrocks&family=Zen+Dots&display=swap');
+
+.navbar{
+    background-color: blueviolet;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    text-transform: capitalize;
+    text-shadow: 0 0 5px #000;
+}
+
+span{
+    color: springgreen
+}
+
+.jumbotron{
+    height: 450px;
+    background-color: springgreen;
+    background-image: linear-gradient(rgba(84, 5, 230, 0.3), rgba(0, 0, 0, 0.7)), url(img/vegetables-g2f51ae14f_1920.jpg);
+    background-size: cover;
+    background-position: center;
+    color: springgreen;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+h2{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 20px;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 0 0 5px #000;
+    margin-bottom: 0;
+}
+section{
+    min-height: 500px;
+    width: 100%;
+    background-color: #333;
+}
+
+footer{
+    height: auto;
+    background-color: #000;
+    color: blueviolet;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+}
+footer a{
+    color: #fff;
+    text-shadow: 2px 2px 5px blueviolet;
+}
+footer i{
+    letter-spacing: 20px;
+    font-size: 50px;
+}
+
+.slider{
+    width: 100%;
+}
